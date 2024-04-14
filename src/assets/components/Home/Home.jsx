@@ -14,7 +14,7 @@ const Home = () => {
         <div className="absolute top-0 left-0 right-0 bottom-0 bg-black opacity-60" />
         <div className="absolute top-0 left-0 right-0 bottom-0 flex flex-col justify-center items-center space-y-4 p-4">
           <h2 className="text-3xl font-bold md:text-4xl">
-            Welcome to Our Car Rental Service
+            Welcome to Our Car Rental Service!
           </h2>
           <p className="text-xl md:text-2xl">
             The best place to rent your dream car.
