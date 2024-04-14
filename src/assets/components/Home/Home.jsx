@@ -107,12 +107,13 @@ const Home = () => {
                 and waiting when I arrived. Excellent!
               </p>
               <div className="mt-4">
-                <span className="font-bold">Alex Johnson</span>
+                <span className="font-bold">Jodhwinder</span>
                 <span className="block text-xs md:text-sm text-gray-500">
                   November 2021
                 </span>
               </div>
             </div>
+            
           </div>
         </div>
       </div>
